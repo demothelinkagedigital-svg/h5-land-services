@@ -11,7 +11,7 @@ export default function Areas() {
         description="H5 Land Services proudly serves Tyler, Longview, Nacogdoches, Palestine, Jacksonville, Lufkin, Henderson and surrounding East Texas communities."
         path="/service-areas"
       />
-      <PageHero eyebrow="Service Areas" title="Proudly Serving East Texas" subtitle="From Tyler to Lufkin, Longview to Palestine — H5 Land Services works across the region." />
+      <PageHero eyebrow="Service Areas" title="Proudly Serving East Texas" subtitle="From Tyler to Lufkin, Longview to Palestine — H5 Land Services works across the region." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F40fea4dd52a24e4fb31812cbe177c3b5?format=webp&width=800&height=1200" />
 
       <section className="py-20 dirt-texture">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-12">
