@@ -91,6 +91,7 @@
 
   --gradient-hero: linear-gradient(135deg, oklch(0.12 0.005 60 / 0.92), oklch(0.22 0.008 60 / 0.7));
   --gradient-orange: linear-gradient(135deg, oklch(0.28 0.008 60), oklch(0.55 0.008 60));
+  --gradient-white-black: linear-gradient(135deg, oklch(0.98 0.003 80), oklch(0.16 0.005 60));
   --shadow-elegant: 0 20px 60px -20px oklch(0.14 0.005 60 / 0.35);
   --shadow-soft: 0 8px 30px -10px oklch(0.14 0.005 60 / 0.15);
 }
@@ -140,6 +141,12 @@
 @layer utilities {
   .text-gradient-orange {
     background: var(--gradient-orange);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .text-gradient-white-black {
+    background: var(--gradient-white-black);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
