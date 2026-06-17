@@ -25,7 +25,7 @@ export default function FAQ() {
         path="/faq"
         jsonLd={faqLd}
       />
-      <PageHero eyebrow="FAQ" title="Frequently Asked Questions" subtitle="Quick answers about pricing, scheduling, and the work we do." />
+      <PageHero eyebrow="FAQ" title="Frequently Asked Questions" subtitle="Quick answers about pricing, scheduling, and the work we do." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F2c5ae964f4df4c8ba3338b1b351fe78a?format=webp&width=800&height=1200" />
       <section className="py-20 dirt-texture">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 space-y-3">
           {faqs.map((f, i) => {

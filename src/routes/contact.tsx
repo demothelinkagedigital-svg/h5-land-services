@@ -24,7 +24,7 @@ export default function Contact() {
         description="Contact H5 Land Services for excavation, pond construction, and land development across East Texas. Call 903-721-1004 or send a message."
         path="/contact"
       />
-      <PageHero eyebrow="Contact" title="Let's Talk About Your Project" subtitle="Call, email, or send a message — most estimates start within 24 hours." />
+      <PageHero eyebrow="Contact" title="Let's Talk About Your Project" subtitle="Call, email, or send a message — most estimates start within 24 hours." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Ffa17c993664a4c768e94c3a4432d6950?format=webp&width=800&height=1200" />
 
       <section className="py-20 dirt-texture">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-12">

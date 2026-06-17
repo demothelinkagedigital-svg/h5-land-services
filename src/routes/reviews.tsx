@@ -12,7 +12,7 @@ export default function Reviews() {
         description="Read what East Texas property owners say about H5 Land Services. 5-star reviews for pond construction, clearing, grading, and site prep."
         path="/reviews"
       />
-      <PageHero eyebrow="Reviews" title="What East Texas Says About H5" subtitle="Honest words from the property owners we've worked for." />
+      <PageHero eyebrow="Reviews" title="What East Texas Says About H5" subtitle="Honest words from the property owners we've worked for." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F9faa1187a7d34043b103185fe50da9ba?format=webp&width=800&height=1200" />
 
       <section className="py-16 bg-primary text-primary-foreground">
         <div className="mx-auto max-w-7xl px-4 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">

@@ -52,7 +52,7 @@ export default function Home() {
               East Texas Excavation Contractor
             </span>
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-[1.05] drop-shadow-[0_2px_12px_rgba(0,0,0,0.55)]">
-              Building Better <span className="text-gradient-orange">Land</span><br />Across East Texas
+              Building Better <span className="text-gradient-white-black">Land</span><br />Across East Texas
             </h1>
             <p className="mt-8 max-w-2xl text-lg md:text-xl text-white/90 drop-shadow-[0_1px_6px_rgba(0,0,0,0.55)]">
               Excavation, grading, pond construction, drainage solutions, site preparation, and land clearing trusted by property owners throughout East Texas.
