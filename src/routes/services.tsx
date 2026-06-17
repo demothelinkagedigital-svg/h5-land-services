@@ -25,7 +25,7 @@ export default function ServicesPage() {
         description="Full-service excavation, pond construction, dam repair, land clearing, driveways, drainage, house pads, and commercial site prep across East Texas."
         path="/services"
       />
-      <PageHero eyebrow="What We Do" title="Complete Excavation & Land Development" subtitle="One trusted East Texas crew for every dirt job — from a single driveway to multi-acre site prep." image={services[2].image} />
+      <PageHero eyebrow="What We Do" title="Complete Excavation & Land Development" subtitle="One trusted East Texas crew for every dirt job — from a single driveway to multi-acre site prep." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Fe4c579160a534e6d89ed4382de550b01?format=webp&width=800&height=1200" />
 
       <section className="py-20 dirt-texture">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 space-y-20">

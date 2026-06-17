@@ -35,7 +35,7 @@ export default function About() {
             </p>
           </FadeUp>
           <FadeUp delay={0.2}>
-            <img src={serviceImages.clearing} alt="H5 dozer working East Texas land" className="rounded-xl shadow-elegant w-full aspect-[4/3] object-cover" loading="lazy" />
+            <img src="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F40fea4dd52a24e4fb31812cbe177c3b5?format=webp&width=800&height=1200" alt="H5 dozer working East Texas land" className="rounded-xl shadow-elegant w-full aspect-[4/3] object-cover" loading="lazy" />
           </FadeUp>
         </div>
       </section>
