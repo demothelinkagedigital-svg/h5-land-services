@@ -17,7 +17,7 @@ const items = [
   { src: projectImages.gallery5, cat: "Site Prep", title: "Equipment Site Work" },
   { src: projectImages.gallery8, cat: "Clearing", title: "Acreage Site Work" },
   { src: projectImages.gallery9, cat: "Grading", title: "Heavy Equipment Grading" },
-  { src: projectImages.gallery10, cat: "Site Prep", title: "Foundation Prep" },
+  { src: projectImages.gallery10, cat: "Driveways", title: "Foundation Prep" },
   { src: projectImages.gallery12, cat: "Pond", title: "Lake Basin Work" },
   { src: projectImages.gallery13, cat: "Pond", title: "Tree Removal Site" },
   { src: projectImages.gallery14, cat: "Pond", title: "Commercial Grading" },
@@ -25,7 +25,7 @@ const items = [
   { src: projectImages.gallery18, cat: "Pond", title: "Lake Construction" },
 ];
 
-const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Site Prep"];
+const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Driveways", "Site Prep"];
 
 export default function Projects() {
   const [filter, setFilter] = useState("All");
