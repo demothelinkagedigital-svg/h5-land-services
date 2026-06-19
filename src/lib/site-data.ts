@@ -32,15 +32,15 @@ export const projectImages = {
 };
 
 export const services = [
-  { slug: "excavation-grading", title: "Excavation & Grading", desc: "Precision excavation and grading for new construction, site development, and property improvements.", image: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F9faa1187a7d34043b103185fe50da9ba?format=webp&width=800&height=1200" },
-  { slug: "drainage", title: "Drainage Solutions", desc: "Culverts, water diversion, erosion control, and surface drainage that protects your property.", image: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Ffa17c993664a4c768e94c3a4432d6950?format=webp&width=800&height=1200" },
-  { slug: "pond-construction", title: "Pond Construction", desc: "New ponds, expansions, and recreational fishing ponds built to last.", image: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F2c5ae964f4df4c8ba3338b1b351fe78a?format=webp&width=800&height=1200" },
-  { slug: "lake-construction", title: "Lake Construction", desc: "Recreational and livestock lakes, water features, and large earthmoving projects.", image: "https://cdn.builder.io/api/v1/image/assets%2F1071c3cef5b14edca149f045ef89066e%2F8f82dd4f02fd4d61b23fa5a76f1e80de?format=webp&width=800&height=1200" },
+  { slug: "excavation-grading", title: "Excavation & Grading", desc: "Precision excavation and grading for new construction, site development, and property improvements.", image: projectImages.grading },
+  { slug: "drainage", title: "Drainage Solutions", desc: "Culverts, water diversion, erosion control, and surface drainage that protects your property.", image: serviceImages.driveway },
+  { slug: "pond-construction", title: "Pond Construction", desc: "New ponds, expansions, and recreational fishing ponds built to last.", image: projectImages.pond },
+  { slug: "lake-construction", title: "Lake Construction", desc: "Recreational and livestock lakes, water features, and large earthmoving projects.", image: serviceImages.pond },
   { slug: "dam-repair", title: "Dam Repair", desc: "Pond dam repairs, erosion restoration, structural improvements, and leak repairs.", image: projectImages.pond },
-  { slug: "land-clearing", title: "Land Clearing", desc: "Tree removal, brush clearing, and full property development site prep.", image: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F3935103f72d74ccc9d9889ec94564e33?format=webp&width=800&height=1200" },
+  { slug: "land-clearing", title: "Land Clearing", desc: "Tree removal, brush clearing, and full property development site prep.", image: serviceImages.clearing },
   { slug: "dozer-services", title: "Dozer Services", desc: "Land leveling, site preparation, clearing, and pond excavation.", image: projectImages.dozer },
   { slug: "house-pads", title: "House & Shop Pads", desc: "Pad construction, final grade work, drainage design, and compaction.", image: projectImages.grading },
-  { slug: "driveways", title: "Driveway Construction", desc: "Gravel driveways, repairs, culvert installs, and driveway extensions.", image: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Ffa17c993664a4c768e94c3a4432d6950?format=webp&width=800&height=1200" },
+  { slug: "driveways", title: "Driveway Construction", desc: "Gravel driveways, repairs, culvert installs, and driveway extensions.", image: serviceImages.driveway },
   { slug: "commercial", title: "Commercial Site Prep", desc: "Excavation, grading, utility prep, and drainage systems for commercial sites.", image: projectImages.grading },
 ];
 

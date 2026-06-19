@@ -7,8 +7,8 @@ import { projectImages, serviceImages } from "@/lib/site-data";
 const items = [
   { src: projectImages.grading, cat: "Grading", title: "Pad Site Grading" },
   { src: projectImages.dozer, cat: "Site Prep", title: "Dozer Land Leveling" },
-  { src: projectImages.pond, cat: "Pond", title: "Pond Construction" },
-  { src: serviceImages.pond, cat: "Lake", title: "Recreational Lake" },
+  { src: serviceImages.pond, cat: "Pond", title: "Pond Construction" },
+  { src: projectImages.pond, cat: "Lake", title: "Recreational Lake" },
   { src: serviceImages.clearing, cat: "Clearing", title: "Acreage Clearing" },
   { src: serviceImages.driveway, cat: "Driveways", title: "Gravel Driveway" },
   { src: projectImages.gallery1, cat: "Grading", title: "Land Grading Project" },
