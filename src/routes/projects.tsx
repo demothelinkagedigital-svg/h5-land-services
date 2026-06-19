@@ -12,20 +12,13 @@ const items = [
   { src: serviceImages.clearing, cat: "Clearing", title: "Acreage Clearing" },
   { src: projectImages.gallery1, cat: "Grading", title: "Land Grading Project" },
   { src: projectImages.gallery2, cat: "Site Prep", title: "Site Preparation" },
-  { src: projectImages.gallery3, cat: "Pond", title: "Land Clearing" },
   { src: projectImages.gallery4, cat: "Grading", title: "Pad Grading" },
   { src: projectImages.gallery5, cat: "Site Prep", title: "Equipment Site Work" },
   { src: projectImages.gallery6, cat: "Pond", title: "Pond Excavation" },
   { src: projectImages.gallery8, cat: "Clearing", title: "Acreage Site Work" },
   { src: projectImages.gallery9, cat: "Grading", title: "Heavy Equipment Grading" },
   { src: projectImages.gallery10, cat: "Site Prep", title: "Foundation Prep" },
-  { src: projectImages.gallery11, cat: "Pond", title: "Water Feature Construction" },
-  { src: projectImages.gallery12, cat: "Pond", title: "Lake Basin Work" },
-  { src: projectImages.gallery13, cat: "Pond", title: "Tree Removal Site" },
-  { src: projectImages.gallery14, cat: "Pond", title: "Commercial Grading" },
-  { src: projectImages.gallery15, cat: "Pond", title: "Drainage Preparation" },
   { src: projectImages.gallery16, cat: "Pond", title: "Pond Bank Construction" },
-  { src: projectImages.gallery18, cat: "Pond", title: "Lake Construction" },
 ];
 
 const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Site Prep"];
