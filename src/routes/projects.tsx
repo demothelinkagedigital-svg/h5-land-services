@@ -42,7 +42,7 @@ export default function Projects() {
         path="/projects"
         image={projectImages.pond}
       />
-      <PageHero eyebrow="Portfolio" title="Real East Texas Projects" subtitle="Browse a sample of recent work — every project built with the same commitment to quality." image="https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F3935103f72d74ccc9d9889ec94564e33?format=webp&width=800&height=1200" />
+      <PageHero eyebrow="Portfolio" title="Real East Texas Projects" subtitle="Browse a sample of recent work — every project built with the same commitment to quality." image="https://cdn.builder.io/api/v1/image/assets%2F86d69472a8b84fc88a12f6a99124927a%2F3c99a1a0c60e4ff79d99035935d3f0d7?format=webp&width=800&height=1200" />
 
       <section className="py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
