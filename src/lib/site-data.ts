@@ -13,7 +13,7 @@ export const projectImages = {
   pond: "/images/project-pond.jpg",
   clearing: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fb3e6cac91dff404eb079eb0fc3da7265?format=webp&width=800&height=1200",
   housePad: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F0a734f23d824497eb8794fa6cdd886c7?format=webp&width=800&height=1200",
-  driveways: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F23679eebfec7411ebb4b1e0c3a6799ae?format=webp&width=800&height=1200",
+  driveways: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F00c54c28ed024996ae856528cd260b79?format=webp&width=800&height=1200",
   sitePrep: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F57c3b6bfaaf8429d90e6d16b81838bc4?format=webp&width=800&height=1200",
   excavation: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F751cce15ce0446468bd3298c0fa2831b?format=webp&width=800&height=1200",
   gallery7: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F472d7fbb95b14f5a9e2d33416d3d3e1f?format=webp&width=800&height=1200",
