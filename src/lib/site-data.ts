@@ -3,7 +3,7 @@ export const logoImage = "/images/h5-logo.png";
 
 export const serviceImages = {
   pond: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F2c5ae964f4df4c8ba3338b1b351fe78a?format=webp&width=800&height=1200",
-  clearing: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F9faa1187a7d34043b103185fe50da9ba?format=webp&width=800&height=1200",
+  clearing: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fb3e6cac91dff404eb079eb0fc3da7265?format=webp&width=800&height=1200",
   driveway: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Ffa17c993664a4c768e94c3a4432d6950?format=webp&width=800&height=1200",
 };
 
@@ -15,7 +15,7 @@ export const projectImages = {
   housePad: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F0a734f23d824497eb8794fa6cdd886c7?format=webp&width=800&height=1200",
   driveways: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F00c54c28ed024996ae856528cd260b79?format=webp&width=800&height=1200",
   sitePrep: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F06e482a492b844568ab398389740038e?format=webp&width=800&height=1200",
-  excavation: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F751cce15ce0446468bd3298c0fa2831b?format=webp&width=800&height=1200",
+  excavation: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F829d66a87fb9410eaa836cae16acb033?format=webp&width=800&height=1200",
   gallery7: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F472d7fbb95b14f5a9e2d33416d3d3e1f?format=webp&width=800&height=1200",
   gallery1: "https://cdn.builder.io/api/v1/image/assets%2F1071c3cef5b14edca149f045ef89066e%2F08f1e7d704d94e6181a0e4de0cd53837?format=webp&width=800&height=1200",
   gallery2: "https://cdn.builder.io/api/v1/image/assets%2F1071c3cef5b14edca149f045ef89066e%2F286c0874b06a4de58043f03b6ada9378?format=webp&width=800&height=1200",
@@ -37,16 +37,16 @@ export const projectImages = {
 };
 
 export const services = [
-  { slug: "excavation-grading", title: "Excavation & Grading", desc: "Precision excavation and grading for new construction, site development, and property improvements.", image: projectImages.grading },
+  { slug: "excavation-grading", title: "Excavation & Grading", desc: "Precision excavation and grading for new construction, site development, and property improvements.", image: projectImages.excavation },
   { slug: "drainage", title: "Drainage Solutions", desc: "Culverts, water diversion, erosion control, and surface drainage that protects your property.", image: serviceImages.driveway },
   { slug: "pond-construction", title: "Pond Construction", desc: "New ponds, expansions, and recreational fishing ponds built to last.", image: projectImages.pond },
   { slug: "lake-construction", title: "Lake Construction", desc: "Recreational and livestock lakes, water features, and large earthmoving projects.", image: serviceImages.pond },
   { slug: "dam-repair", title: "Dam Repair", desc: "Pond dam repairs, erosion restoration, structural improvements, and leak repairs.", image: projectImages.pond },
   { slug: "land-clearing", title: "Land Clearing", desc: "Tree removal, brush clearing, and full property development site prep.", image: serviceImages.clearing },
   { slug: "dozer-services", title: "Dozer Services", desc: "Land leveling, site preparation, clearing, and pond excavation.", image: projectImages.dozer },
-  { slug: "house-pads", title: "House & Shop Pads", desc: "Pad construction, final grade work, drainage design, and compaction.", image: projectImages.grading },
+  { slug: "house-pads", title: "House & Shop Pads", desc: "Pad construction, final grade work, drainage design, and compaction.", image: projectImages.housePad },
   { slug: "driveways", title: "Driveway Construction", desc: "Gravel driveways, repairs, culvert installs, and driveway extensions.", image: serviceImages.driveway },
-  { slug: "commercial", title: "Commercial Site Prep", desc: "Excavation, grading, utility prep, and drainage systems for commercial sites.", image: projectImages.grading },
+  { slug: "commercial", title: "Commercial Site Prep", desc: "Excavation, grading, utility prep, and drainage systems for commercial sites.", image: projectImages.sitePrep },
 ];
 
 export const serviceAreas = [
