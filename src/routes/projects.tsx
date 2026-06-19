@@ -10,7 +10,6 @@ const items = [
   { src: serviceImages.pond, cat: "Pond", title: "Pond Construction" },
   { src: projectImages.pond, cat: "Lake", title: "Recreational Lake" },
   { src: serviceImages.clearing, cat: "Clearing", title: "Acreage Clearing" },
-  { src: serviceImages.driveway, cat: "Driveways", title: "Gravel Driveway" },
   { src: projectImages.gallery1, cat: "Grading", title: "Land Grading Project" },
   { src: projectImages.gallery2, cat: "Site Prep", title: "Site Preparation" },
   { src: projectImages.gallery3, cat: "Clearing", title: "Land Clearing" },
@@ -26,11 +25,10 @@ const items = [
   { src: projectImages.gallery14, cat: "Grading", title: "Commercial Grading" },
   { src: projectImages.gallery15, cat: "Site Prep", title: "Drainage Preparation" },
   { src: projectImages.gallery16, cat: "Pond", title: "Pond Bank Construction" },
-  { src: projectImages.gallery17, cat: "Driveways", title: "Gravel Road Work" },
   { src: projectImages.gallery18, cat: "Lake", title: "Lake Construction" },
 ];
 
-const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Driveways", "Site Prep"];
+const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Site Prep"];
 
 export default function Projects() {
   const [filter, setFilter] = useState("All");
