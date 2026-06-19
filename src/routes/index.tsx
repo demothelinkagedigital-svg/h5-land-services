@@ -113,7 +113,7 @@ export default function Home() {
           <FadeUp delay={0.2}>
             <div className="grid grid-cols-2 gap-4">
               <img src={services[5].image} alt="Land clearing" className="rounded-lg shadow-elegant aspect-[4/5] object-cover" loading="lazy" />
-              <img src={services[2].image} alt="Pond construction" className="rounded-lg shadow-elegant aspect-[4/5] object-cover mt-8" loading="lazy" />
+              <img src="https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F0cd1b892e63c44089ee4cba3d97d44a1?format=webp&width=800&height=1200" alt="Pond construction" className="rounded-lg shadow-elegant aspect-[4/5] object-cover mt-8" loading="lazy" />
             </div>
           </FadeUp>
         </div>
