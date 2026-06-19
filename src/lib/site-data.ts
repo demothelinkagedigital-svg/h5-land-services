@@ -8,13 +8,13 @@ export const serviceImages = {
 };
 
 export const projectImages = {
-  grading: "/images/project-grading.jpg",
-  dozer: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F87f3bbc7698b44cb8a197d4efe0e6dd8?format=webp&width=800&height=1200",
+  grading: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F829d66a87fb9410eaa836cae16acb033?format=webp&width=800&height=1200",
+  dozer: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F8f2b9d0118f5450f9ef7a07ede4cb977?format=webp&width=800&height=1200",
   pond: "/images/project-pond.jpg",
-  clearing: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fa70038af9f1746edaed34336504f575d?format=webp&width=800&height=1200",
-  housePad: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F1f762c877952428397111cabc0535933?format=webp&width=800&height=1200",
-  driveways: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F3ae6f4c07950497692abfbd008059c4e?format=webp&width=800&height=1200",
-  sitePrep: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fba9c11ab304644bf83c6fe4cfd6cc8cc?format=webp&width=800&height=1200",
+  clearing: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fb3e6cac91dff404eb079eb0fc3da7265?format=webp&width=800&height=1200",
+  housePad: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F0a734f23d824497eb8794fa6cdd886c7?format=webp&width=800&height=1200",
+  driveways: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F23679eebfec7411ebb4b1e0c3a6799ae?format=webp&width=800&height=1200",
+  sitePrep: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F57c3b6bfaaf8429d90e6d16b81838bc4?format=webp&width=800&height=1200",
   excavation: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F751cce15ce0446468bd3298c0fa2831b?format=webp&width=800&height=1200",
   gallery7: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2F472d7fbb95b14f5a9e2d33416d3d3e1f?format=webp&width=800&height=1200",
   gallery1: "https://cdn.builder.io/api/v1/image/assets%2F1071c3cef5b14edca149f045ef89066e%2F08f1e7d704d94e6181a0e4de0cd53837?format=webp&width=800&height=1200",
