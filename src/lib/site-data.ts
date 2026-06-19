@@ -1,4 +1,4 @@
-export const heroImage = "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F88274770b09441d3856825bddb11376b?format=webp&width=800&height=1200";
+export const heroImage = "https://cdn.builder.io/api/v1/image/assets%2F86d69472a8b84fc88a12f6a99124927a%2Fb411f8b432664174978d2fb9c3a0ef8d?format=webp&width=800&height=1200";
 export const logoImage = "/images/h5-logo.png";
 
 export const serviceImages = {
