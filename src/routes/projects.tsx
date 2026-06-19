@@ -5,18 +5,20 @@ import { Seo } from "@/components/site/Seo";
 import { projectImages, serviceImages } from "@/lib/site-data";
 
 const items = [
-  { src: projectImages.grading, cat: "Grading", title: "Pad Site Grading" },
-  { src: projectImages.dozer, cat: "Site Prep", title: "Dozer Land Leveling" },
-  { src: serviceImages.pond, cat: "Lake", title: "Pond Construction" },
-  { src: projectImages.pond, cat: "Pond", title: "Recreational Lake" },
-  { src: serviceImages.clearing, cat: "Clearing", title: "Acreage Clearing" },
-  { src: projectImages.gallery1, cat: "Grading", title: "Land Grading Project" },
-  { src: projectImages.gallery2, cat: "Site Prep", title: "Site Preparation" },
+  { src: projectImages.dozer, cat: "Dozer", title: "Dozer Land Leveling" },
+  { src: projectImages.clearing, cat: "Clearing", title: "Acreage Clearing" },
+  { src: projectImages.housePad, cat: "House Pad", title: "House Pad Construction" },
+  { src: projectImages.driveways, cat: "Driveways", title: "Driveway Installation" },
+  { src: projectImages.sitePrep, cat: "Site Prep", title: "Site Preparation" },
+  { src: projectImages.excavation, cat: "Excavation & Grading", title: "Excavation & Grading" },
+  { src: projectImages.gallery7, cat: "Pond", title: "Pond Construction" },
+  { src: projectImages.gallery1, cat: "Excavation & Grading", title: "Land Grading Project" },
+  { src: projectImages.gallery2, cat: "Site Prep", title: "Site Preparation Work" },
   { src: projectImages.gallery3, cat: "Pond", title: "Land Clearing" },
-  { src: projectImages.gallery4, cat: "Grading", title: "Pad Grading" },
+  { src: projectImages.gallery4, cat: "Excavation & Grading", title: "Pad Grading" },
   { src: projectImages.gallery5, cat: "Site Prep", title: "Equipment Site Work" },
   { src: projectImages.gallery8, cat: "Clearing", title: "Acreage Site Work" },
-  { src: projectImages.gallery9, cat: "Grading", title: "Heavy Equipment Grading" },
+  { src: projectImages.gallery9, cat: "Excavation & Grading", title: "Heavy Equipment Grading" },
   { src: projectImages.gallery10, cat: "Driveways", title: "Foundation Prep" },
   { src: projectImages.gallery12, cat: "Pond", title: "Lake Basin Work" },
   { src: projectImages.gallery13, cat: "Pond", title: "Tree Removal Site" },
@@ -25,7 +27,7 @@ const items = [
   { src: projectImages.gallery18, cat: "Pond", title: "Lake Construction" },
 ];
 
-const cats = ["All", "Pond", "Lake", "Grading", "Clearing", "Driveways", "Site Prep"];
+const cats = ["All", "Dozer", "Clearing", "House Pad", "Driveways", "Site Prep", "Excavation & Grading", "Pond"];
 
 export default function Projects() {
   const [filter, setFilter] = useState("All");
