@@ -4,7 +4,7 @@ export const logoImage = "/images/h5-logo.png";
 export const serviceImages = {
   pond: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2F2c5ae964f4df4c8ba3338b1b351fe78a?format=webp&width=800&height=1200",
   clearing: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fb3e6cac91dff404eb079eb0fc3da7265?format=webp&width=800&height=1200",
-  driveway: "https://cdn.builder.io/api/v1/image/assets%2Fee8f621c2e53420386d00344659f6cb0%2Ffa17c993664a4c768e94c3a4432d6950?format=webp&width=800&height=1200",
+  driveway: "https://cdn.builder.io/api/v1/image/assets%2F8b84be17aad14310b285d25f23a3235d%2Fe3fd45c5af164e06b5ed65bc7ce47727?format=webp&width=800&height=1200",
 };
 
 export const projectImages = {
